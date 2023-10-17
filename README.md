@@ -1,16 +1,35 @@
-### Hi there 👋
+# Привіт! 👋
 
-<!--
-**UserAndrii/UserAndrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Мене звати Андрій, і я хочу розповісти кілька слів про себе. Я доброзичливий, амбітний і відповідальний розробник Fullstack, який приділяє велику увагу деталям. 
 
-Here are some ideas to get you started:
+## Деякі факти про мене:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Взяв участь як керівник групи у трьох командних проектах
+- ✅ Успішно завершив декілька особистих проектів
+- 📚 Завжди вивчаю нові технології
+
+## Моя мета:
+
+Знайти посаду в компанії з дружньою та відмінною командою, де я можу розвиватися та навчатися та ставати кращим серед кращих. Запевняю у відданості справі, наполегливій праці та швидкому виконанні завдань.
+
+## Зв'язок:
+
+- 📧 Електронна адреса: gadar.andre@gmail.com
+- 📲 Telegram: [https://t.me/andrii_hadar](https://t.me/andrii_hadar)
+- 📄 [Резюме](https://drive.google.com/file/d/1mt4JpVsuSBY1TyQ3jVKBuf5UTm6wbDPJ/view?usp=sharing)
+
+## Стек технологій:
+
+- HTML
+- CSS
+- SASS
+- JS
+- REST API
+- React.js
+- Redux
+- Node.js
+- Express
+- Ще декілька...
+
+Дякую за увагу та гарного дня! 🌟
+
