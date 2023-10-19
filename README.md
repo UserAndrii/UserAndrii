@@ -1,24 +1,24 @@
-# Привіт! 👋
+# Hello! 👋
 
-Мене звати Андрій, і я хочу розповісти кілька слів про себе. Я доброзичливий, амбітний і відповідальний розробник Fullstack, який приділяє велику увагу деталям. 
+My name is Andrii, and I'd like to tell you a few words about myself. I am a friendly, ambitious, and responsible Fullstack developer who pays great attention to detail. 
 
-## Деякі факти про мене:
+## Some facts about me:
 
-- 🚀 Взяв участь як керівник групи у трьох командних проектах
-- ✅ Успішно завершив декілька особистих проектів
-- 📚 Завжди вивчаю нові технології
+- 🚀 Led three team projects as a Team Leader
+- ✅ Successfully completed several personal projects
+- 📚 Always eager to learn new technologies
 
-## Моя мета:
+## My goal:
 
-Знайти посаду в компанії з дружньою та відмінною командою, де я можу розвиватися та навчатися та ставати кращим серед кращих. Запевняю у відданості справі, наполегливій праці та швидкому виконанні завдань.
+To secure a position in a company with a friendly and excellent team, where I can grow, learn, and become the best among the best. I assure dedication, hard work, and prompt task completion.
 
 ## Зв'язок:
 
-- 📧 Електронна адреса: gadar.andre@gmail.com
+- 📧 Email: gadar.andre@gmail.com
 - 📲 Telegram: [https://t.me/andrii_hadar](https://t.me/andrii_hadar)
-- 📄 [Резюме](https://drive.google.com/file/d/1mt4JpVsuSBY1TyQ3jVKBuf5UTm6wbDPJ/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1mt4JpVsuSBY1TyQ3jVKBuf5UTm6wbDPJ/view?usp=sharing)
 
-## Стек технологій:
+## Technology stack:
 
 - HTML
 - CSS
@@ -29,7 +29,7 @@
 - Redux
 - Node.js
 - Express
-- Ще декілька...
+- And a few more...
 
-Дякую за увагу та гарного дня! 🌟
+Thank you for your attention and have a great day! 🌟
 
