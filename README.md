@@ -29,6 +29,7 @@ To secure a position in a company with a friendly and excellent team, where I ca
 - Redux
 - Node.js
 - Express
+- NoSQL (MongoDB)
 - And a few more...
 
 Thank you for your attention and have a great day! 🌟
