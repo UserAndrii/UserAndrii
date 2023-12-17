@@ -1,6 +1,5 @@
-# Hello! 👋
 
-My name is Andrii, and I'd like to tell you a few words about myself. I am a friendly, ambitious, and responsible Fullstack developer who pays great attention to detail. 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=26&duration=3000&center=%D0%BF%D0%BE%D0%BC%D0%B8%D0%BB%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9&vCenter=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&multiline=true&repeat=%D0%BF%D0%BE%D0%BC%D0%B8%D0%BB%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9&random=%D0%BF%D0%BE%D0%BC%D0%B8%D0%BB%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9&width=700&height=170&lines=Hello!+My+name+is+Andrii+%F0%9F%91%8B;I'd+like+to+tell+you+a+few+words+about+myself;I+am+an+attentive%2C+creative%2C+and+ambitious+developer+with;a+strong+desire+to+grow+in+the+field+of+web+development+and;explore+new+technologies+by+applying+them+in+exciting+projects.)](https://git.io/typing-svg)
 
 ## Some facts about me:
 
