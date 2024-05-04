@@ -9,7 +9,7 @@
 
 ## My goal:
 
-I want to find a good job in a lively company with a friendly and successful team. I hope to use my skills, keep learning, and do my best. By working hard and finishing tasks on time, I want to grow both personally and professionally, aiming to be one of the top performers.
+I am a dynamic and driven **Full-Stack Developer**, and I am characterized by youth, ambition, responsibility, and diligence. With a keen aptitude for rapid learning, I consistently seek opportunities to broaden my knowledge. My leadership experience in collaborative projects and adeptness in Agile/Scrum methodologies underscore my versatility. My aspiration is to secure a full-time role in a company renowned for its amiable team and conducive work environment, fostering the continual development of my professional skills. Expect unwavering dedication, diligence, and prompt task resolution from me.
 
 ## Connect with me:
 
@@ -17,20 +17,27 @@ I want to find a good job in a lively company with a friendly and successful tea
   <a href="https://www.linkedin.com/in/andrii-hadar/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" title="LinkedIn" /></a>
   <a href="https://t.me/andrii_hadar"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" alt="Telegram" title="Telegram" /></a>
   <a href="mailto:gadar.andre@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=email&style=for-the-badge" alt="Email" title="Email" /></a>
-  <a href="https://drive.google.com/file/d/1mt4JpVsuSBY1TyQ3jVKBuf5UTm6wbDPJ/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-green?logo=file&style=for-the-badge" alt="Resume" title="Resume" /></a>
+  <a href="https://drive.google.com/file/d/1ZW6qy1DXF3WcC4geIuzSz9FWDYMfA3kq/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-green?logo=file&style=for-the-badge" alt="Resume" title="Resume" /></a>
 </p>
 
 ## My technology stack:
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-555?logo=html5&style=for-the-badge" alt="html5" title="HTML5" /></a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-555?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3" title="CSS3" /></a>
-  <a href="https://sass-lang.com"><img src="https://img.shields.io/badge/SASS-555?logo=sass&style=for-the-badge" alt="sass" title="SASS" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/Javascript-555?logo=javascript&style=for-the-badge" alt="javascript" title="javascript" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/Typescript-555?logo=typescript&style=for-the-badge" alt="typescript" title="typescript" /></a>
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-555?logo=react&style=for-the-badge" alt="react" title="react" /></a>
+  <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-555?logo=react&style=for-the-badge" alt="react native" title="react native" /></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-555?logo=next.js&style=for-the-badge" alt="next.js" title="next.js" /></a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-555?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3" title="CSS3" /></a>
+  <a href="https://sass-lang.com"><img src="https://img.shields.io/badge/SASS-555?logo=sass&style=for-the-badge" alt="sass" title="SASS" /></a>
+  <a href="https://styled-components.com/"><img src="https://img.shields.io/badge/styled_components-555?logo=styledcomponents&style=for-the-badge" alt="styled-components" title="styled-components" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-555?logo=tailwind-css&style=for-the-badge" alt="tailwind css" title="tailwind css" /></a>
+
+  <a href="https://axios-http.com/"><img src="https://img.shields.io/badge/Axios-555?logo=axios&style=for-the-badge" alt="axios" title="axios" /></a>
   <a href="https://react-redux.js.org/" > <img src="https://img.shields.io/badge/Redux-555?logo=redux&logoColor=764ABC&style=for-the-badge" alt="redux" title="redux" /></a>
-  <a href="https://styled-components.com/"> <img src="https://img.shields.io/badge/styled_components-555?logo=styledcomponents&style=for-the-badge" alt="styled-components" title="styled-components" /></a>
+  <a href="https://redux-toolkit.js.org/rtk-query/overview"><img src="https://img.shields.io/badge/RTK_Query-555?logo=redux&style=for-the-badge" alt="RTK Query" title="RTK Query" /></a>
 
   <a href="https://nodejs.org"> <img src="https://img.shields.io/badge/Node.js-555?logo=node.js&style=for-the-badge" alt="nodejs" title="Node.js" /></a>
   <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-555?logo=express&style=for-the-badge" alt="Express.js" title="Express.js" /></a>
