@@ -63,7 +63,7 @@ What you can expect from me: dedication, accountability, and timely delivery of 
 
 - 🇺🇦 Ukrainian - Native 
 - 🇬🇧 English - B1
-- 🇭🇺 Hungary - B1
+- 🇭🇺 Hungary - B2
 
 ### Thank you for your attention and have a great day! 🌟
 
