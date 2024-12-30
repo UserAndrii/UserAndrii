@@ -9,7 +9,13 @@
 
 ## My goal:
 
-I am a dynamic and driven **Full-Stack Developer**, and I am characterized by youth, ambition, responsibility, and diligence. With a keen aptitude for rapid learning, I consistently seek opportunities to broaden my knowledge. My leadership experience in collaborative projects and adeptness in Agile/Scrum methodologies underscore my versatility. My aspiration is to secure a full-time role in a company renowned for its amiable team and conducive work environment, fostering the continual development of my professional skills. Expect unwavering dedication, diligence, and prompt task resolution from me.
+I am a passionate and ambitious Full-Stack Developer driven by a commitment to excellence, learning, and innovation. I thrive in fast-paced environments where I can apply my strong problem-solving skills and rapidly adapt to new technologies.
+
+With hands-on experience in web development and leadership roles in collaborative projects, I am well-versed in Agile/Scrum methodologies and the latest technologies, including React, React Native, Next.js, and Node.js. I’ve successfully led teams on three joint projects and completed several personal ones, showcasing my technical expertise and ability to work effectively in diverse teams.
+
+I aim to join a company with a supportive team and a positive work environment, where I can continually enhance my professional skills and contribute to impactful projects. My current focus is on mastering AI technologies to stay ahead in an ever-evolving industry.
+
+What you can expect from me: dedication, accountability, and timely delivery of high-quality results. Don’t hesitate to connect with me for collaboration opportunities or questions!
 
 ## Connect with me:
 
