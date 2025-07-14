@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=26&duration=3000&center=%D0%BF%D0%BE%D0%BC%D0%B8%D0%BB%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9&vCenter=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&multiline=true&repeat=%D0%BF%D0%BE%D0%BC%D0%B8%D0%BB%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9&random=%D0%BF%D0%BE%D0%BC%D0%B8%D0%BB%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9&width=700&height=170&lines=Hello!+My+name+is+Andrii+%F0%9F%91%8B;I'd+like+to+tell+you+a+few+words+about+myself;I+am+an+attentive%2C+creative%2C+and+ambitious+developer+with;a+strong+desire+to+grow+in+the+field+of+web+development+and;explore+new+technologies+by+applying+them+in+exciting+projects.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=190&lines=Hi+there%2C+I'm+Andrii+%F0%9F%91%8B;Full‑stack+Web+%26+Mobile+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+React+Native;Passionate+about+AI%E2%80%91powered+solutions+%F0%9F%A4%96;Building+clean%2C+scalable+apps+with+love+%F0%9F%92%9C)](https://git.io/typing-svg)
 
 ## Some facts about me:
 
@@ -36,14 +36,20 @@ I enjoy solving complex problems, taking ownership from design to deployment, an
   <a href="https://sass-lang.com"><img src="https://img.shields.io/badge/SASS-555?logo=sass&style=for-the-badge" alt="sass" title="SASS" /></a>
   <a href="https://styled-components.com/"><img src="https://img.shields.io/badge/styled_components-555?logo=styledcomponents&style=for-the-badge" alt="styled-components" title="styled-components" /></a>
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-555?logo=tailwind-css&style=for-the-badge" alt="tailwind css" title="tailwind css" /></a>
+  <a href="https://mui.com/"><img src="https://img.shields.io/badge/MUI-555?logo=mui&logoColor=white&style=for-the-badge" alt="Material UI" title="Material UI (MUI)" /></a>
 
   <a href="https://axios-http.com/"><img src="https://img.shields.io/badge/Axios-555?logo=axios&style=for-the-badge" alt="axios" title="axios" /></a>
   <a href="https://react-redux.js.org/" > <img src="https://img.shields.io/badge/Redux-555?logo=redux&logoColor=764ABC&style=for-the-badge" alt="redux" title="redux" /></a>
   <a href="https://redux-toolkit.js.org/rtk-query/overview"><img src="https://img.shields.io/badge/RTK_Query-555?logo=redux&style=for-the-badge" alt="RTK Query" title="RTK Query" /></a>
+  <a href="https://github.com/pmndrs/zustand"><img src="https://img.shields.io/badge/Zustand-555?logo=zustand&style=for-the-badge" alt="Zustand" title="Zustand" /></a>
 
   <a href="https://nodejs.org"> <img src="https://img.shields.io/badge/Node.js-555?logo=node.js&style=for-the-badge" alt="nodejs" title="Node.js" /></a>
   <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-555?logo=express&style=for-the-badge" alt="Express.js" title="Express.js" /></a>
   <a href="https://www.mongodb.com/"> <img src="https://img.shields.io/badge/Mongo_DB-555?logo=MongoDB&style=for-the-badge" alt="MongoDB" title="MongoDB" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-555?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" title="PostgreSQL" /></a>
+  <a href="https://strapi.io/"><img src="https://img.shields.io/badge/Strapi-555?logo=strapi&logoColor=white&style=for-the-badge" alt="Strapi" title="Strapi" /></a>
+  <a href="https://graphql.org/"><img src="https://img.shields.io/badge/GraphQL-555?logo=graphql&logoColor=white&style=for-the-badge" alt="GraphQL" title="GraphQL" /></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-555?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" title="Docker" /></a>
   
   <a href="https://webpack.js.org"><img src="https://img.shields.io/badge/Webpack-555?logo=webpack&style=for-the-badge" alt="webpack" title="Webpack" /></a>
   <a href="https://parceljs.org/"><img src="https://img.shields.io/badge/Parcel-555?logo=parcel&style=for-the-badge" alt="parsel" title="Parsel" /></a> 
