@@ -9,13 +9,9 @@
 
 ## My goal:
 
-I am a passionate and ambitious Full-Stack Developer driven by a commitment to excellence, learning, and innovation. I thrive in fast-paced environments where I can apply my strong problem-solving skills and rapidly adapt to new technologies.
+I'm a responsible and ambitious Fullstack Developer with 2+ years of experience building scalable web and mobile applications using React, Next.js, Node.js, and React Native. I’ve led teams on several projects and developed AI-powered, data-driven, and user-centric platforms — from HR automation tools to tour booking systems and mobile news apps.
 
-With hands-on experience in web development and leadership roles in collaborative projects, I am well-versed in Agile/Scrum methodologies and the latest technologies, including React, React Native, Next.js, and Node.js. I’ve successfully led teams on three joint projects and completed several personal ones, showcasing my technical expertise and ability to work effectively in diverse teams.
-
-I aim to join a company with a supportive team and a positive work environment, where I can continually enhance my professional skills and contribute to impactful projects. My current focus is on mastering AI technologies to stay ahead in an ever-evolving industry.
-
-What you can expect from me: dedication, accountability, and timely delivery of high-quality results. Don’t hesitate to connect with me for collaboration opportunities or questions!
+I enjoy solving complex problems, taking ownership from design to deployment, and continuously evolving my skills. Passionate about clean code, modern tech, and building meaningful products in collaborative teams. Don’t hesitate to connect with me for collaboration opportunities or questions!
 
 ## Connect with me:
 
