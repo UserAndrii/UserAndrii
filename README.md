@@ -23,7 +23,7 @@ What you can expect from me: dedication, accountability, and timely delivery of 
   <a href="https://www.linkedin.com/in/andrii-hadar/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" title="LinkedIn" /></a>
   <a href="https://t.me/andrii_hadar"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" alt="Telegram" title="Telegram" /></a>
   <a href="mailto:gadar.andre@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=email&style=for-the-badge" alt="Email" title="Email" /></a>
-  <a href="https://drive.google.com/file/d/1zEehqrvUG-WMLImA30Qkx1eLLx7MenOy/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-green?logo=file&style=for-the-badge" alt="Resume" title="Resume" /></a>
+  <a href="https://drive.google.com/file/d/1Ih95tztbw5PuXuVaL58dxg6loZ8P6jAu/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-green?logo=file&style=for-the-badge" alt="Resume" title="Resume" /></a>
 </p>
 
 ## My technology stack:
