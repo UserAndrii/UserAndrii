@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=190&lines=Hi+there%2C+I'm+Andrii+%F0%9F%91%8B;Full‑stack+Web+%26+Mobile+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+React+Native;Passionate+about+AI%E2%80%91powered+solutions+%F0%9F%A4%96;Building+clean%2C+scalable+apps+with+love+%F0%9F%92%9C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=26&duration=2000&pause=500&color=FFFFFF&center=false&vCenter=false&multiline=true&repeat=false&width=700&height=190&lines=Hi+there%2C+I'm+Andrii+%F0%9F%91%8B;Full‑stack+Web+%26+Mobile+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+React+Native;Passionate+about+AI%E2%80%91powered+solutions+%F0%9F%A4%96;Building+clean%2C+scalable+apps+with+love+%F0%9F%92%9C)](https://git.io/typing-svg)
 
 ## Some facts about me:
 
